@@ -1,5 +1,5 @@
 <h1 align="center"> ✨About Me</h1>
-<p align="center">👋 **Hi, I’m Varshitha!**
+<p align="center">👋 Hi, I’m Varshitha!</p>
 
 ---
 **🌟 An enthusiastic and curious Computer Science Engineering student at JNTUH (PIETW).**
@@ -31,10 +31,9 @@
 ---
 
 ### 🌐 Socials:
-[![varshitha's Linkdin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshitha-kagithala-829499255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![varshitha's email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto: varshithakagithala@gmail.com)
-[![varshitha's instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/varshaaa_.24)
----
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/varshaaa_.24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshitha-kagithala-829499255)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshithakagithala@gmail.com)
 
 ### 💻 Tech Stack:
 
