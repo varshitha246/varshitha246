@@ -1,19 +1,28 @@
-<h1 align="center"> # 👋 Hi, I’m Varshitha!</h1>
-<p align="center">🌟 An enthusiastic and curious Computer Science Engineering student at JNTUH (PIETW).
-- 💻 Currently working as a Front-End Developer.
-- 🛠️ Developed real-time projects in Machine Learning, Web Development.
-- 🚀 Passionate about building intelligent systems and user-friendly interfaces.
-- 🧠 Skilled in:
-  - Python, SQL, C, HTML/CSS
-  - Machine Learning, Web Development
-  - NumPy, Pandas, Scikit-learn, Matplotlib
-- 🔧 Currently learning Backend Development and API Integration and exploring poweful AI Tools.
-- 🤖 Excited about AI + ML integration in real-world applications.
-- 🎯 Always open to internships, collaborations, and building impactful tech solutions.
-- 📫 How to reach me:
-  - LinkedIn: [your-linkedin-url]
-  - Email: [your-email-id]
-- ⚡ Fun fact: I enjoy teaching, love designing clean UI, and turning ideas into reality through code!</p>
+<h1 align="center"># ✨About Me</h1>
+<p align="center"># 👋 **Hi, I’m Varshitha!**
+
+---
+**🌟 An enthusiastic and curious Computer Science Engineering student at JNTUH (PIETW).**
+
+**💻 Currently working as a Front-End Developer.**
+
+**🛠️ Developed real-time projects in Machine Learning and Web Development.**
+
+**🚀 Passionate about building intelligent systems and user-friendly interfaces.**
+
+**🧠 Skilled in:**  
+- **Python, SQL, C, HTML/CSS**  
+- **Machine Learning, Web Development**  
+- **NumPy, Pandas, Scikit-learn, Matplotlib**
+
+**🔧 Currently learning Backend Development and API Integration, and exploring powerful AI tools.**
+
+**🤖 Excited about AI + ML integration in real-world applications.**
+
+**🎯 Always open to internships, collaborations, and building impactful tech solutions.**
+
+
+**⚡ Fun fact:** I enjoy teaching, love designing clean UI, and turning ideas into reality through code!
 
 ---
 
@@ -24,7 +33,7 @@
 ### 🌐 Socials:
 [![https://www.linkedin.com/in/varshitha-kagithala-829499255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
 [![varshithakagithala@gmail.com](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![varshaaa_.24](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME)
+[![varshaaa_.24](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/varshaaa_.24)
 ---
 
 ### 💻 Tech Stack:
