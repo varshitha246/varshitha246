@@ -1,5 +1,5 @@
 <h1 align="center"> ✨About Me</h1>
-<p align="center">👋 Hi, I’m Varshitha!</p>
+<p align="center">👋 Hi, I’m Kagithala Varshitha!</p>
 
 ---
 **🌟 An enthusiastic and curious Computer Science Engineering student at JNTUH (PIETW).**
